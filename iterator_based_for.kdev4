@@ -1,0 +1,4 @@
+[Project]
+Name=iterator_based_for
+Manager=KDevCMakeManager
+VersionControl=kdevgit
